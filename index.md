@@ -1,3 +1,3 @@
 Hello World
-<iframe src="//www.pixton.com/embed/f9mcst86" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+https://Pixton.com/ic:f9mcst86
 Hosted by Github Pages
