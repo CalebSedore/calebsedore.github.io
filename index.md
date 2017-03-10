@@ -26,3 +26,13 @@
 [NYS Fishing Records](https://calebsedore.github.io/fish.html)
 
 <h2> Lehigh Enrollment</h2>
+
+<p1> Lehigh draws many of its students from New Jersey and the surrounding areas. The link below is an infographic that shows the areas where most Lehigh students come from according to the University itself. 
+
+[Enrollment](https://calebsedore.github.io/enrollment.html)
+
+<h2> U.S. Unemployment</h2>
+
+<p1> The link below will take you to a time series chart showing the changes in employment over the course of the past 10 years.
+
+[Unemployment](https://calebsedore.github.io/unemployment.html)
