@@ -6,4 +6,4 @@
 <iframe src="//www.pixton.com/embed/f9mcst86" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
 <br>
 <h2> Patriot League Basketball</h2>
-<p1>As a basketball player for Lehigh, who competes in the Patriot League, I was interested in looking in at some of the important offensive and defensive statistics from across the league. After learning how to use Tableau in class, I put together a worksheet comparing different teams statistics from the 2016-17 season. Here is the link to the page: calebsedore.github.io/basketball.html</p1>
+<p1>As a basketball player for Lehigh, who competes in the Patriot League, I was interested in looking in at some of the important offensive and defensive statistics from across the league. After learning how to use Tableau in class, I put together a worksheet comparing different teams statistics from the 2016-17 season. Here is the link to the page: (calebsedore.github.io/basketball.html)</p1>
