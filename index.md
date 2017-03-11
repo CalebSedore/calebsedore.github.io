@@ -19,19 +19,17 @@
 
 <a href="https://calebsedore.github.io/kobe.html">Kobe Bryant</a>
 
-[Kobe Bryant](https://calebsedore.github.io/kobe.html)
-
 <h2> New York State Fishing Records</h2>
 
 <p1> Like I mentioned in my bio, fishing is one of the things I like to do in my spare time. I made an interactive map of some of the the New York State record fish, linked below.</p1>
 
-[NYS Fishing Records](https://calebsedore.github.io/fish.html)
+<a href="https://calebsedore.github.io/fish.html">NYS Fishing Records</a>
 
 <h2> Lehigh Enrollment</h2>
 
-<p1> Lehigh draws many of its students from New Jersey and the surrounding areas. The link below is an infographic that shows the areas where most Lehigh students come from according to the University itself. 
+<p1> Lehigh draws many of its students from New Jersey and the surrounding areas. The link below is an infographic that shows the areas where most Lehigh students come from according to the University itself.</p1> 
 
-[Enrollment](https://calebsedore.github.io/enrollment.html)
+<a href="https://calebsedore.github.io/enrollment.html">Enrollment</a>
 
 <h2> U.S. Unemployment</h2>
 
