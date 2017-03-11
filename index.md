@@ -3,7 +3,7 @@
 
 <h2>About Me</h2>
 <p1> This comic is a quick introduction into who I am, one of the assignments we did in my data visualization class.</p1>
-<iframe src="//www.pixton.com/embed/f9mcst86" frameborder="0" width="100%" height="400" allowfullscreen></iframe>
+<iframe src="//www.pixton.com/embed/f9mcst86" frameborder="0" width="100%" height="432" allowfullscreen></iframe>
 <h2> Patriot League Basketball</h2>
 <p1>As a basketball player for Lehigh, who competes in the Patriot League, I was interested in looking in at some of the important offensive and defensive statistics from across the league. After learning how to use Tableau in class, I put together a worksheet comparing different teams statistics from the 2016-17 season. Check out the worksheet in the link below.</p1>
 
