@@ -17,6 +17,8 @@
 
 <p1>Kobe Bryant is my all time favorite NBA player. His highlight dunks, scoring ability, and swagger are just a few of the reasons I grew to be a fan of his. The link below will take you to a timeline of some of the highlights of his career.</p1>
 
+<a href="https://calebsedore.github.io/kobe.html">Kobe Bryant</a>
+
 [Kobe Bryant](https://calebsedore.github.io/kobe.html)
 
 <h2> New York State Fishing Records</h2>
