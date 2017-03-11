@@ -11,7 +11,6 @@
 <br>
 <a href="https://calebsedore.github.io/basketball.html">Patriot League Men's Basketball</a>
 
-<br>
 <h1> Other Visualizations</h1>
 
 <h2> Kobe Bryant</h2>
