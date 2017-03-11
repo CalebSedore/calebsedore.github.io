@@ -5,7 +5,7 @@
 <p1> This comic is a quick introduction into who I am, one of the assignments we did in my data visualization class.</p1>
 <iframe src="//www.pixton.com/embed/f9mcst86" frameborder="0" width="100%" height="432" allowfullscreen></iframe>
 <h2> Patriot League Basketball</h2>
-<p1>As a basketball player for Lehigh, who competes in the Patriot League, I was interested in looking in at some of the important offensive and defensive statistics from across the league. After learning how to use Tableau in class, I put together a worksheet comparing different teams statistics from the 2016-17 season. Data is becoming increasingly important for coaches and players as they strive to understand what it takes to win. Like many other areas of competition, such as the business world, where competitors are always looking for an advantage. Check out the worksheet in the link below.</p1>
+<p1> Data is becoming increasingly important for coaches and players as they strive to understand what it takes to win. Like many other areas of competition, such as the business world, where competitors are always looking for an advantage. As a basketball player for Lehigh, who competes in the Patriot League, I was interested in looking in at some of the important offensive and defensive statistics from across the league. After learning how to use Tableau in class, I put together a worksheet comparing different teams statistics from the 2016-17 season. An example of a few key statistics is in the link below.</p1>
 
 <p></p>
 <a href="https://calebsedore.github.io/basketball.html">Patriot League Men's Basketball</a>
