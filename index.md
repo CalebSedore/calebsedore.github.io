@@ -35,4 +35,4 @@
 
 <p1> The link below will take you to a time series chart showing the changes in employment over the course of the past 10 years.
 
-[Unemployment](https://calebsedore.github.io/unemployment.html)
+<a href="https://calebsedore.github.io/unemployment.html">Unemployment</a>
