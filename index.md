@@ -3,7 +3,7 @@
 <p></p>
 <h2>About Me</h2>
 <p1> This comic is a quick introduction into who I am,based on one of the assignments we did in my data visualization class.</p1>
-<iframe src="//www.pixton.com/embed/f9mcst86" frameborder="0" width="100%" height="316" allowfullscreen></iframe>
+<iframe src="//www.pixton.com/embed/f9mcst86" frameborder="0" width="100%" height="324" allowfullscreen></iframe>
 <h2> Patriot League Basketball</h2>
 <p1> Data is becoming increasingly important for coaches and players as they strive to understand what it takes to win. As a basketball player for Lehigh, competing in the Patriot League, I was interested in looking in at some of the important offensive and defensive statistics from across the league. After learning how to use Tableau in class, I put together a worksheet comparing different team's statistics from the 2016-17 season. An example of a few key statistics is in the link below.</p1>
 
