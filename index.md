@@ -4,11 +4,10 @@
 <h2>About Me</h2>
 <p1> This comic is a quick introduction into who I am, one of the assignments we did in my data visualization class.
 <iframe src="//www.pixton.com/embed/f9mcst86" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
-<br>
 <h2> Patriot League Basketball</h2>
 <p1>As a basketball player for Lehigh, who competes in the Patriot League, I was interested in looking in at some of the important offensive and defensive statistics from across the league. After learning how to use Tableau in class, I put together a worksheet comparing different teams statistics from the 2016-17 season. Check out the worksheet in the link below.</p1>
 
-<br>
+<p></p>
 <a href="https://calebsedore.github.io/basketball.html">Patriot League Men's Basketball</a>
 
 <h1> Other Visualizations</h1>
@@ -17,7 +16,7 @@
 
 <p1>Kobe Bryant is my all time favorite NBA player. His highlight dunks, scoring ability, and swagger are just a few of the reasons I grew to be a fan of his. The link below will take you to a timeline of some of the highlights of his career.</p1>
 
-<br>
+<p></p>
 
 <a href="https://calebsedore.github.io/kobe.html">Kobe Bryant</a>
 
@@ -25,7 +24,7 @@
 
 <p1> Like I mentioned in my bio, fishing is one of the things I like to do in my spare time. I made an interactive map of some of the the New York State record fish, linked below.</p1>
 
-<br>
+<p></p>
 
 <a href="https://calebsedore.github.io/fish.html">NYS Fishing Records</a>
 
@@ -33,7 +32,7 @@
 
 <p1> Lehigh draws many of its students from New Jersey and the surrounding areas. The link below is an infographic that shows the areas where most Lehigh students come from according to the University itself.</p1> 
 
-<br>
+<p></p>
 
 <a href="https://calebsedore.github.io/enrollment.html">Enrollment</a>
 
@@ -41,6 +40,6 @@
 
 <p1> The link below will take you to a time series chart showing the changes in employment over the course of the past 10 years.
 
-<br>
+<p></p>
 
 <a href="https://calebsedore.github.io/unemployment.html">Unemployment</a>
