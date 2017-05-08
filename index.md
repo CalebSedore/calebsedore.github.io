@@ -46,7 +46,7 @@
 
 <h1> Video Project </h1>
 <p1> The link below will take you to a video about Lehigh Wrestler Scott Parker that I made using Final Cut Pro
-<a href="https://drive.google.com/open?id=0B37TrS_of3-6Z0dfakxzZlFmNjQ">Lehigh Wrestler Scott Parker</a></p>
+<a href="https://drive.google.com/open?id=0B37TrS_of3-6Z0dfakxzZlFmNjQ">Lehigh Wrestler Scott Parker</a>
 
 <h1> Magazine Spread</h1>
 <p1> Here is a magazine spread I created with a story on a Lehigh Wrestler using InDesign
