@@ -46,5 +46,6 @@
 
 <h1>Magazine Spread</h1>
 <p1> Here is a magazine spread I created with a story on a Lehigh Wrestler using InDesign
-<img src="calebsedore.github.io/Parker1.jpg">
-
+<img src="https://calebsedore.github.io/Parker1.jpg">
+<img src="https://calebsedore.github.io/Parker2.jpg">
+<img src="https://calebsedore.github.io/Parker3.jpg">
