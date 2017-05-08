@@ -52,7 +52,7 @@
 <a href="https://drive.google.com/open?id=0B37TrS_of3-6Z0dfakxzZlFmNjQ">Lehigh Wrestler Scott Parker</a>
 
 <h1> Magazine Spread</h1>
-<p1> Here is a magazine spread I created with a story on a Lehigh Wrestler using InDesign
+<p1> Here is a magazine spread I created with a story on a Lehigh Wrestler using InDesign.
 <img src="https://calebsedore.github.io/Parker1.jpg">
 <img src="https://calebsedore.github.io/Parker2.jpg">
 <img src="https://calebsedore.github.io/Parker3.jpg">
