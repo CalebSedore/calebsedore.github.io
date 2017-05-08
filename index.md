@@ -45,7 +45,7 @@
 <a href="https://calebsedore.github.io/unemployment.html">Unemployment</a>
 
 <h1> Video Project </h1>
-<p1> The link below will take you to a video about Lehigh Wrestler Scott Parker that I made using Final Cut Pro
+<p1> The link below will take you to a video about Lehigh Wrestler Scott Parker that I made using Final Cut Pro.
 
 <p></p>
 
