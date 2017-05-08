@@ -43,3 +43,8 @@
 <p></p>
 
 <a href="https://calebsedore.github.io/unemployment.html">Unemployment</a>
+
+<h1>Magazine Spread</h1>
+<p1> Here is a magazine spread I created with a story on a Lehigh Wrestler using InDesign
+
+
